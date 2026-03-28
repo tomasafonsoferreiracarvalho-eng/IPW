@@ -1,0 +1,140 @@
+header{
+    background-color: gray;
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+header h1{
+    margin-bottom: 0;
+    font-size: 55px;
+}
+
+header p {
+    margin-top: 0;
+}
+
+nav ul{
+    list-style-type: none;
+    display: inline;
+
+}
+nav ul li{
+    background-color: white;
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+nav {
+    background-color: #CCCCCC;
+    text-align: center;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+}
+
+#nada{
+    background-color: #CCCCCC;
+}
+
+#company{
+    width: 90%;     /* ou o tamanho que quiseres */
+    height: auto;
+    display: block;
+    margin: 20px auto;   /* centra e dá espaço */
+    border: 5px solid black;
+}
+
+html{
+    background-color: #F1F1F1;
+}
+
+.texto h2{
+    color: green;
+    text-align: left;
+    margin-left: 0px;
+}
+.texto {
+    text-align: left;
+    margin-left: 80px;
+}
+
+.texto h3{
+    color:red;
+}
+
+#este{
+    color:green;
+}
+
+nav a {
+    color: black;            /* cor normal */
+    text-decoration: none;   /* sem sublinhado */
+}
+
+nav a.ativo {
+    color: green;            /* só o ativo fica verde */
+    font-weight: bold;       /* opcional */
+}
+
+.final{
+    background-color: gray;
+    color: white;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    text-align: center;
+}
+
+#maps{
+    border: 7px solid black;
+
+}
+
+.contact{
+    margin-left: 40px;
+}
+
+.contact h2{
+    color: green;
+}
+
+form {
+    margin-left: 80px; /* ou o valor que quiseres */
+    font-size: 18px;
+}
+
+input {
+    width: 250px;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+button {
+    padding: 8px 20px;
+    background-color: #ccc;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.servi h2{
+    color:green;
+}
+
+.servi h1{
+    color: red;
+}
+
+table {
+    border-collapse: collapse;
+    margin-left: 80px;
+}
+
+th {
+    background-color: #ddd;
+}
+
+td, th {
+    padding: 10px;
+}
